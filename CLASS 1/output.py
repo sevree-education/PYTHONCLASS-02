@@ -9,3 +9,5 @@ print(myname, age)
 
 #how to print text + variable:
 print(f'Ma name is {myname} and my age is {age}')
+
+
