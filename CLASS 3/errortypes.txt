@@ -1,0 +1,10 @@
+Types of Errors:
+
+----- ZeroDivisionError -----
+In case of zero division operation
+----- ValueError -----
+When a function receives an incorrect value
+----- TypeError -----
+When you try to do an operation between objects of diffrent types
+----- NameError -----
+Raised when trying to used a variable that has not been defined
